@@ -1,0 +1,63 @@
+body {
+    background-color: grey;
+}
+
+.tabs {
+    display: flex;
+    justify-content: space-between;
+    border: 4px solid black;
+    margin: 5px;
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+
+}
+
+.vid {
+    font-size: 150%;
+}
+
+img {
+    display: flex;
+    justify-content: space-between;
+    border: 4px solid black;
+    margin: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: 150%;
+    text-align: center;
+}
+
+.info {
+    font-size: 75%;
+}
+
+.background {
+    background-color:
+        #d1aba9;
+}
+a:hover {
+  background-color: blue;
+}
+a:link {
+  color: red;
+}
+
